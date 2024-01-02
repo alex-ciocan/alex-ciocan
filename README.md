@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alex-ciocan
 - 👀 I’m interested in PHP, Laravel, Node
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for new opportunities
 - 📫 How to reach me on Skype alx.ciocan or email alexandru.ciocan88@gmail.com
 
 <!---
